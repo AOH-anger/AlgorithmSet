@@ -22,3 +22,8 @@ Using python to achieve a variety of algorithms
 4: 将2的乘方本身和它减一后的数进行 位与运算 , 结果等于 0
 
 参考资料: http://blog.jobbole.com/107689/
+
+# 3. _BubbleSort.py
+##需求:
+
+冒泡排序
