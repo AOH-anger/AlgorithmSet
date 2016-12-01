@@ -26,4 +26,4 @@ Using python to achieve a variety of algorithms
 # 3. _BubbleSort.py
 ##需求:
 
-冒泡排序
+冒泡排序算法
