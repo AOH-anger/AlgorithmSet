@@ -27,3 +27,10 @@ Using python to achieve a variety of algorithms
 ##需求:
 
 冒泡排序算法
+
+# 4._mergeSort.py
+##需求:
+
+归并算法
+
+参考资料:  https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F
