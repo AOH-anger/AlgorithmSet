@@ -41,3 +41,8 @@ Using python to achieve a variety of algorithms
 获取二进制中的1
 
 参考资料: http://blog.csdn.net/21aspnet/article/details/7387373
+
+# 6.__binaryHandle.py
+##需求:
+
+二进制相关的简单的操作集合 . . .
