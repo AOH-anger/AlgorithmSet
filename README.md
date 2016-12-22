@@ -46,3 +46,8 @@ Using python to achieve a variety of algorithms
 ##需求:
 
 二进制相关的简单的操作集合 . . .
+
+# 7.__primeJudge.py
+##需求:
+
+使用筛除法求素数
